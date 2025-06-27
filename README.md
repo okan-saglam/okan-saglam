@@ -2,7 +2,7 @@
 Recently graduated in Computer Engineering from Middle East Technical University.
 
 ## Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/okan-sağlam-8240591b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okan-sa%C4%9Flam-8240591b4/)
 
 ## 🛠 Tech Stack
 
