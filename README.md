@@ -4,19 +4,68 @@ Recently graduated in Computer Engineering from Middle East Technical University
 ## Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okan-sa%C4%9Flam-8240591b4/)
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages:**  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)  ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-
-**Backend & DB:**  
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-
-**Game Development:**  
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+      <br><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
+      <br><sub><b>TailwindCSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+      <br><sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <br><sub><b>MongoDB</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
+      <br><sub><b>Unity</b></sub>
+    </td>
+  </tr>
+</table>
 
 <!--
 **okan-saglam/okan-saglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
